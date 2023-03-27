@@ -317,6 +317,11 @@ common language
       TypeOperators
       TypeSynonymInstances
 
+  other-extensions:
+      CPP
+      PartialTypeSignatures
+
+
 -- Agda library
 ---------------------------------------------------------------------------
 
